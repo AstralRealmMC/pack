@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "astral:item/sword/sword_blade",
+    "layer1": "astral:item/sword/sword_handle"
+  }
+}
