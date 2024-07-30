@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "astral:font/merge.png",
+            "ascent": 30,
+            "height": 137,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astral:font/merge.png",
+            "ascent": -9999,
+            "height": -8,
+            "chars": [
+                "\uF002"
+            ]
+        }
+    ]
+}
